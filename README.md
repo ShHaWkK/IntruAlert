@@ -11,3 +11,6 @@ This project aims to set up an intrusion detection system (IDS) in Python to mon
 - Alert analysis and appropriate response
 
 ## Installation
+
+### Scapy  
+> pip install scapy
